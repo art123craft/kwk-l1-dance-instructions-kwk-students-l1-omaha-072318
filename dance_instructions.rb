@@ -36,6 +36,12 @@ def lasso
 end
 lasso
 
+ def bust_a_move
+   puts "Be cool."
+   puts "Be snazzy!"
+ end
+ bust_a_move
+
 # def skip_step("right")
 #   puts "Lower rightfoot to the ground."
 #   puts "Bounce right foot back up slighty, kicking it a few inches back."
