@@ -14,7 +14,7 @@ def skip_step(left)
 end
  skip_step("left")
 
-# def bob_the_reins
+def bob_the_reins
 
 # def skip_step("right")
 #   puts "Lower rightfoot to the ground."
