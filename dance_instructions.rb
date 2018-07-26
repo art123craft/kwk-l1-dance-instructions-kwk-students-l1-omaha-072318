@@ -28,6 +28,9 @@ def bob_the_reins
 end
 bob_the_reins
 
+def lasso
+  puts
+
 # def skip_step("right")
 #   puts "Lower rightfoot to the ground."
 #   puts "Bounce right foot back up slighty, kicking it a few inches back."
