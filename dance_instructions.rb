@@ -11,7 +11,7 @@ def skip_step("left")
   puts "Bounce left foot back up slighty, kicking it a few inches back."
   puts "Left, right, Left and Left."
 end
- skip_step("left")
+ skip_step
 
 # def bob_the_reins
 
