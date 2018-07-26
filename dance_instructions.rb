@@ -6,12 +6,12 @@ def starting_stance
 end
 starting_stance
 
-def skip_step("left")
+def skip_step(left)
   puts "Lower left foot to the ground."
   puts "Bounce left foot back up slighty, kicking it a few inches back."
   puts "Left, right, Left and Left."
 end
- skip_step
+ skip_step("left")
 
 # def bob_the_reins
 
