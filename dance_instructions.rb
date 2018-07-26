@@ -7,6 +7,7 @@ end
 starting_stance
 
 def skip_step(left)
+  puts "Briefly"
   puts "Lower left foot to the ground."
   puts "Bounce left foot back up slighty, kicking it a few inches back."
   puts "Left, right, Left and Left."
