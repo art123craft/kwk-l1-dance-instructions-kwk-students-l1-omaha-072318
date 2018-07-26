@@ -15,9 +15,7 @@ end
  skip_step("left")
 
 def base_footwork
-  puts "Holding your arms out in front of you, straight and at chest level."
-  puts "Cross your right wrist over your left and hold them together."
-  puts "Lift you arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times."
+  puts "Lift right foot."
 end
 base_footwork 
 
